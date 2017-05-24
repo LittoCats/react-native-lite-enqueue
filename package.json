@@ -1,0 +1,20 @@
+{
+  "name": "react-native-lite-enqueue",
+  "version": "0.0.1",
+  "description": "util for contextify async task.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "程巍巍",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/LittoCats/react-native-lite-enqueue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LittoCats/react-native-lite-enqueue/issues"
+  },
+  "homepage": "https://github.com/LittoCats/react-native-lite-enqueue#readme"
+}
